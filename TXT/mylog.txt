@@ -1,6 +1,21 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W01 120 L73 Gaming until mac feeling heatup
+ZCZC W01 60 L64 Helping my friend setup his vm
+ZCZC W01 30 L41 Writing this report
+ZCZC W01 05 L27 connecting to vm
+ZCZC W01 30 L24 writing file using vim
+ZCZC W01 60 L21 Fixing my bugging modification
+ZCZC W01 60 L11 Do week 1 assignment
+ZCZC W01 60 L09 DO weekly assignment
+ZCZC W01 05 L08 Telling and getting telled from my friend why os worth doing
+ZCZC W01 60 L06 In stackoverflow and any random website figuring what i'm doing
+ZCZC W01 30 L05 Prepare and doing quiz
+ZCZC W01 05 L03 Initialize and adding data to private github
+ZCZC W01 150 L02 Watching Lecture
+ZCZC W01 20 L01 Waiting webiste reload and lagging
+ZCZC W01 05 L00 Preparation and config wifi
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
