@@ -1,7 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-ZCZC W02 120 L3 Learning and doing some basic bach script
+ZCZC W03 140 L23 Learning, reading and practicing bash script
+ZCZC W03 40 L24 Doing script assigmnet 
+ZCZC W03 360 L12 Configuring and bug fixing current week assigment
+ZCZC W03 120 L04 Study and attending weekly quiz
+ZCZC W03 10 L04 Editing github page
+ZCZC W03 20 L03 Doing SSH and github commit
+ZCZC W03 200 L02 Attending Lecture
+ZCZC W03 30 L01 ATTN Annoucement and general
+ZCZC W02 120 L23 Learning and doing some basic bach script
 ZCZC W02 60 L24 Doing some bash script
 ZCZC W02 360 L12 Configuring and solving current week assignment
 ZCZC W02 120 L08 Discussing with peers about how to do current week assignmen
